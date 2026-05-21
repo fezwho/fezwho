@@ -15,14 +15,8 @@ Breaking LLMs open to understand them — then shipping products with them.
 ## Stack
 `Python` `FastAPI` `LangChain` `LlamaIndex` `React` `Next.js` `ChromaDB` `pgvector` `Docker` `Ollama`
 
-## A Few Things I've Shipped
-- **Mega Mind** — RAG app with pipeline builder, observability, and quality metrics
-- **Voice Support Agent** — real-time voice AI via Twilio + LiveKit + OpenAI
-- **AI Browser Bot** — autonomous web agent powered by LLaMA 3.3 70B
-- **School AI Assistant** — multi-provider RAG with Next.js voice UI
-
 ---
 
-🌐 [fezwho.github.io](https://fezwho.github.io) · 📍 Lahore, Pakistan
+🌐 [fezwho.me](https://fezwho.me) · 📍 Lahore, Pakistan
 
 *I like systems. I like understanding why things work. Then making them work better.*
