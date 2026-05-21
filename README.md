@@ -6,7 +6,7 @@ React Dev → AI Engineer → Builder of Things That Think
 Breaking LLMs open to understand them — then shipping products with them.
 
 ## Current Focus
-- **Production RAG** — LangChain · ChromaDB · FastAPI · hybrid retrieval · reranking
+- **Production RAG* — LangChain · ChromaDB · FastAPI · hybrid retrieval · reranking
 - **Multi-provider AI** — fan-out architectures, parallel inference, cascading fallbacks
 - **Voice AI** — Twilio · LiveKit · OpenAI Realtime API
 - **LLM fine-tuning** — LoRA / QLoRA on Mistral, LLaMA, Gemma, Phi
